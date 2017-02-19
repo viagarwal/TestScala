@@ -1,0 +1,5 @@
+package TestCollection
+
+object TestMethodOverride {
+  
+}
